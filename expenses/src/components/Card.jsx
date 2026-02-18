@@ -1,4 +1,3 @@
-/* src/components/Card.js */
 import "./Card.css";
 
 const Card = (props) => {
